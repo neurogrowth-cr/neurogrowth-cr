@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm focused on leveraging AI & APIs to revolutionize sales processes and drive business growth the cybersecurity startup space. 
+I'm focused on leveraging AI & APIs to revolutionize sales processes and drive business growth in the cybersecurity startup space. 
 
 Check out our work:
 -   **NeuroGrowth.io:** Business Overview + login to the backend infrastructure. 
