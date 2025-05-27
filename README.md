@@ -3,9 +3,14 @@
 I'm focused on leveraging AI & APIs to revolutionize sales processes and drive business growth.
 
 Check out our work:
--   **NeuroGrowth.io:** Business Overview + login to the backend infrastructure. Visit us at [https://neurogrowth.io/](https://neurogrowth.io/)
--   **NeuroGrowth Consulting:** Get expert guidance to optimize your sales strategy in cybersecurity. Learn more at [https://neurogrowthconsulting.com/](https://neurogrowthconsulting.com/)
--   **Neurogrowth LinkedIn Page:** The realest nuggets in the space. Check out [https://www.linkedin.com/company/neurogrowth/]([https://neurogrowth.io/](https://www.linkedin.com/company/neurogrowth/))
+-   **NeuroGrowth.io:** Business Overview + login to the backend infrastructure. 
+    Visit us at [https://neurogrowth.io/](https://neurogrowth.io/)
+
+-   **NeuroGrowth Consulting:** Get expert guidance to optimize your sales strategy in cybersecurity.
+    Learn more at [https://neurogrowthconsulting.com/](https://neurogrowthconsulting.com/)
+
+-   **Neurogrowth LinkedIn Page:** The realest growth nuggets in the cyber startup space.
+    Check out [https://www.linkedin.com/company/neurogrowth/](https://www.linkedin.com/company/neurogrowth/)
 
 Feel free to connect!
 
